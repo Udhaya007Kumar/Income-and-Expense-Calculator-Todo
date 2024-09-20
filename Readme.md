@@ -5,6 +5,6 @@
 # crud All using in this project 
 # Add Buuton click model open income & expense select in details 
 # Radio All button income & expenss Detils showed 
-# income Radio button only income Details showed include edit & delted
-# Expense  Radio button only income Details showed include edit & delted
+# income Radio button only income Details showed include update & Deleted
+# Expense  Radio button only income Details showed include update & Delete
 #            ...........The End...........
