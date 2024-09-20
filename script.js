@@ -212,7 +212,7 @@ income.addEventListener('change',()=>{
               <li class="ml-4">Source: ${item.source}</li>
               <li class="ml-4">Amount: ${item.amount}</li>
               <li class="ml-4">Date: ${item.date}</li>
-              <li class="ml-4">Total: ${totalIncome}</li>
+              
               
             </div>
           <div class="grid content-evenly ml-[23px]">
@@ -289,7 +289,7 @@ expense.addEventListener('change',()=>{
               <li class="ml-4">Source: ${item.source}</li>
               <li class="ml-4">Amount: ${item.amount}</li>
               <li class="ml-4">Date: ${item.date}</li>
-               <li class="ml-4">Total: ${totalexpanse}</li>
+              
 
             </div>
           <div class="grid content-evenly ml-[23px]">
